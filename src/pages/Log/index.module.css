@@ -1,0 +1,11 @@
+.wrapLog {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+}
+
+.wrapTable {
+    width: 100%;
+    height: 510px;
+    position: relative;
+}

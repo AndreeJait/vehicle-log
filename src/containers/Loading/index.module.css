@@ -1,0 +1,22 @@
+.loadingWrap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background: rgba(91, 91, 91, 0.82);
+    border-radius: 5px
+}
+
+.loadingWrapImage {
+    position: absolute;
+    height: 70%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loadingWrapImage > img {
+    /*max-width: 100%;*/
+    height: 100%;
+    /*max-height: 100%;*/
+}

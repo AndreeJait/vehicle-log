@@ -1,0 +1,15 @@
+.tableInfo {
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.tableInfo > span {
+
+}
+
+.tableInfo > img {
+    width: 40px;
+    height: 40px;
+}
